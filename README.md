@@ -1,9 +1,16 @@
 # Aboutme
 👋 Hi, I’m @Dpkranjan
-👀 I’m Hiring Product Owner, Microservice Developers, Cloud/DevOps Kubernetes OpenStack Engineers, Automation Developers Engineers.
-🌱 I’m currently learning as an Intern.
+
+👀 I’m Hiring Kubernetes Open Shift SRE (Site Reliable Engineers) 
+
+👀 Product Owner, Microservice Developers, Cloud/DevOps Kubernetes OpenStack Engineers, Automation Developers Engineers.
+
+🌱 I’m currently training Interns and corporate associates to re look at the life as a Kubernetes Open Shift SRE (Site Reliable Engineers) 
+
 💞️ I’m looking to collaborate with Academies and promote a Free Machine Learning Platform iventura.ai.
+
 📫 How to reach me @9902991978
+
 #My BAckground
  Red Hat Trainer in 2001 and Founder COSSINDIA “Red Hat #1 Training Partner 15 Years”
  
